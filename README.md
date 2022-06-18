@@ -23,3 +23,9 @@ Release History
 
 v0.0.0 (18/06/2022 18:04)
 Published my code to github and updated readme file
+
+![pic1](https://user-images.githubusercontent.com/93241765/174437930-0c9b2a6f-48e9-45a0-bd6d-43683faec84b.jpg)
+
+![pic2](https://user-images.githubusercontent.com/93241765/174437936-76c03dc0-c9da-4d60-ac9e-b97a735b9969.jpg)
+
+![pic3](https://user-images.githubusercontent.com/93241765/174437942-eb0fe7c3-8b47-4761-9709-1b516188d50e.jpg)
